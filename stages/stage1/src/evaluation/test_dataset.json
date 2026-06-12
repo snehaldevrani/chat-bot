@@ -1,0 +1,102 @@
+[
+  {
+    "question": "Where is CityPark Premium Parking located?",
+    "expected_answer": "123 Main Street, Downtown Business District, City Center",
+    "relevant_sources": ["location_directions.txt"]
+  },
+  {
+    "question": "What is the address of the parking facility?",
+    "expected_answer": "123 Main Street, Downtown Business District, City Center, 10001",
+    "relevant_sources": ["location_directions.txt"]
+  },
+  {
+    "question": "How do I get to CityPark by public transport?",
+    "expected_answer": "Take any train line to Central Railway Station and walk 2 minutes. Bus routes 12, 27, 45A, and 88 also stop nearby.",
+    "relevant_sources": ["location_directions.txt"]
+  },
+  {
+    "question": "What is the height clearance for vehicles?",
+    "expected_answer": "2.1 meters for covered levels and 2.0 meters for Basement",
+    "relevant_sources": ["levels_layout.txt"]
+  },
+  {
+    "question": "How many parking levels does CityPark have?",
+    "expected_answer": "4 levels: Ground Floor, Level 1, Level 2, and Basement",
+    "relevant_sources": ["levels_layout.txt", "parking_overview.txt"]
+  },
+  {
+    "question": "What is on Level 2 of the parking facility?",
+    "expected_answer": "10 regular spaces and 5 VIP premium spaces",
+    "relevant_sources": ["levels_layout.txt"]
+  },
+  {
+    "question": "Are there EV charging stations at CityPark?",
+    "expected_answer": "Yes, 5 EV charging bays with 22kW Type 2 AC chargers (3 on Level 1, 2 in Basement)",
+    "relevant_sources": ["features_amenities.txt", "levels_layout.txt"]
+  },
+  {
+    "question": "Is there CCTV security at CityPark?",
+    "expected_answer": "Yes, 24/7 CCTV surveillance with 60+ cameras and on-site security personnel",
+    "relevant_sources": ["features_amenities.txt", "parking_overview.txt"]
+  },
+  {
+    "question": "Is the parking facility accessible for disabled visitors?",
+    "expected_answer": "Yes, with 4 wide-bay handicapped spaces, wheelchair ramps, tactile paving, and priority elevator access",
+    "relevant_sources": ["features_amenities.txt", "levels_layout.txt"]
+  },
+  {
+    "question": "What is the speed limit inside the parking facility?",
+    "expected_answer": "10 km/h at all times",
+    "relevant_sources": ["rules_regulations.txt"]
+  },
+  {
+    "question": "Can I leave my car overnight at CityPark?",
+    "expected_answer": "No, overnight parking is not allowed without a pre-approved monthly pass",
+    "relevant_sources": ["rules_regulations.txt", "faq.txt"]
+  },
+  {
+    "question": "What happens if I lose my parking ticket?",
+    "expected_answer": "Report it to reception immediately. A $10 lost ticket fee will be charged and ANPR records will verify your entry time.",
+    "relevant_sources": ["rules_regulations.txt", "faq.txt"]
+  },
+  {
+    "question": "How do I make a parking reservation?",
+    "expected_answer": "Use the chatbot. It collects your name, surname, car number, dates, and space type. An admin confirms within 15-30 minutes.",
+    "relevant_sources": ["booking_process.txt"]
+  },
+  {
+    "question": "What is the cancellation policy?",
+    "expected_answer": "Free cancellation up to 2 hours before start time. Within 2 hours: $5 late cancellation fee.",
+    "relevant_sources": ["booking_process.txt", "faq.txt"]
+  },
+  {
+    "question": "What payment methods are accepted?",
+    "expected_answer": "Credit/debit card, contactless payment, mobile pay (Apple Pay, Google Pay), and cash at reception",
+    "relevant_sources": ["faq.txt", "booking_process.txt"]
+  },
+  {
+    "question": "What are the parking prices?",
+    "expected_answer": "Regular: $3/hr. EV Charging: $5/hr. VIP: $8/hr. Handicapped: $2/hr.",
+    "relevant_sources": ["faq.txt", "booking_process.txt"]
+  },
+  {
+    "question": "How do I contact CityPark Premium Parking?",
+    "expected_answer": "Phone: +1 (555) 123-4567. Email: info@citypark.com.",
+    "relevant_sources": ["contact_info.txt"]
+  },
+  {
+    "question": "What is the phone number for CityPark?",
+    "expected_answer": "+1 (555) 123-4567",
+    "relevant_sources": ["contact_info.txt"]
+  },
+  {
+    "question": "Is there Wi-Fi available in the parking facility?",
+    "expected_answer": "Yes, free Wi-Fi is available throughout the facility",
+    "relevant_sources": ["features_amenities.txt", "faq.txt"]
+  },
+  {
+    "question": "Is the Basement connected to the Downtown Shopping Mall?",
+    "expected_answer": "Yes, the Basement level has a direct pedestrian connection to the Downtown Shopping Mall",
+    "relevant_sources": ["faq.txt", "levels_layout.txt"]
+  }
+]

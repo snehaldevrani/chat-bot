@@ -1,0 +1,77 @@
+{
+  "generated_at": "2026-06-08T23:42:39.698523",
+  "results": [
+    {
+      "component": "GET /health",
+      "requests": 100,
+      "p50_ms": 113.82,
+      "p95_ms": 158.31,
+      "p99_ms": 389.4,
+      "mean_ms": 117.7,
+      "min_ms": 35.25,
+      "max_ms": 391.57,
+      "rps": 129.8,
+      "error_rate_pct": 0.0
+    },
+    {
+      "component": "GET /pending",
+      "requests": 100,
+      "p50_ms": 83.67,
+      "p95_ms": 123.06,
+      "p99_ms": 131.94,
+      "mean_ms": 83.41,
+      "min_ms": 30.87,
+      "max_ms": 131.95,
+      "rps": 148.3,
+      "error_rate_pct": 0.0
+    },
+    {
+      "component": "GET / (chat UI)",
+      "requests": 100,
+      "p50_ms": 97.01,
+      "p95_ms": 192.71,
+      "p99_ms": 224.76,
+      "mean_ms": 108.0,
+      "min_ms": 41.32,
+      "max_ms": 225.07,
+      "rps": 151.6,
+      "error_rate_pct": 0.0
+    },
+    {
+      "component": "POST /chat (mock graph)",
+      "requests": 50,
+      "p50_ms": 1789.74,
+      "p95_ms": 3363.85,
+      "p99_ms": 3710.32,
+      "mean_ms": 1929.7,
+      "min_ms": 807.8,
+      "max_ms": 3633.16,
+      "rps": 13.5,
+      "error_rate_pct": 0.0
+    },
+    {
+      "component": "MCP write (concurrent)",
+      "requests": 20,
+      "p50_ms": 59.76,
+      "p95_ms": 116.2,
+      "p99_ms": 116.73,
+      "mean_ms": 51.68,
+      "min_ms": 5.43,
+      "max_ms": 116.23,
+      "rps": 145.6,
+      "error_rate_pct": 0.0
+    },
+    {
+      "component": "GET /approve (concurrent)",
+      "requests": 30,
+      "p50_ms": 4007.4,
+      "p95_ms": 4628.83,
+      "p99_ms": 4634.33,
+      "mean_ms": 3956.5,
+      "min_ms": 2486.07,
+      "max_ms": 4631.27,
+      "rps": 6.4,
+      "error_rate_pct": 0.0
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+CityPark Premium Parking - Booking Process
+
+How to Reserve a Parking Space
+
+Step 1: Start a Reservation
+Tell our chatbot you would like to make a reservation. The chatbot will guide you through the entire process interactively.
+
+Step 2: Provide Your Details
+The chatbot will collect the following information:
+- First name
+- Surname (last name)
+- Car registration number (e.g., ABC-1234)
+- Reservation start date and time (e.g., 2026-06-10 09:00)
+- Reservation end date and time (e.g., 2026-06-10 18:00)
+- Preferred space type: regular, ev_charging, vip, or handicapped
+
+Step 3: Review and Confirm
+The chatbot will display a full summary of your reservation details, including the estimated cost. You can confirm or cancel at this stage.
+
+Step 4: Administrator Approval
+Once submitted, your reservation is sent to a CityPark administrator for review and confirmation. This process typically takes 15–30 minutes during operating hours. You will receive a confirmation notification once approved.
+
+Step 5: Arrival
+On the day of your reservation, simply arrive at CityPark and proceed to your assigned parking level. Your reservation is tied to your car registration number, which is verified by our ANPR system at entry.
+
+Pricing Overview:
+- Regular space: $3.00/hour | $20.00/day | $150.00/month
+- EV Charging space: $5.00/hour | $35.00/day | $250.00/month
+- VIP space: $8.00/hour | $50.00/day | $350.00/month
+- Handicapped space: $2.00/hour | $15.00/day | $100.00/month
+
+Cancellation Policy:
+- Cancel more than 2 hours before start time: No charge
+- Cancel within 2 hours of start time: $5.00 late cancellation fee
+- No-show (fail to arrive): Full first hour charge applies
+
+Modification Policy:
+- Reservations can be modified (date/time changes) up to 1 hour before the original start time, subject to availability
+- Space type changes are subject to availability and may result in price differences
+
+Important Notes:
+- Your reserved space is held for up to 30 minutes after your reservation start time
+- After 30 minutes, the space may be released to walk-in customers
+- For monthly passes, contact reception directly or email info@citypark.com
+
+Payment:
+- Payment is collected at exit via the automated machines
+- Pre-payment option available at reception for reservations longer than 8 hours
+- Monthly pass payments accepted by bank transfer or card at reception

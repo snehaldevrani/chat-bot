@@ -1,0 +1,49 @@
+CityPark Premium Parking - Levels and Layout
+
+Total Capacity: 57 spaces across 4 levels
+
+Ground Floor:
+- 10 standard regular spaces (G-01 to G-10)
+- 2 handicapped-accessible spaces (G-H1, G-H2) — located closest to the elevator and main entrance
+- Total: 12 spaces
+- Surface: Open air with roof covering
+- Height clearance: Unlimited (open air section), 2.1m for covered section
+- Nearest to: Main Street entrance, reception desk, elevator
+
+Level 1:
+- 15 standard regular spaces (L1-01 to L1-15)
+- 3 EV charging spaces (L1-EV1, L1-EV2, L1-EV3) — equipped with Type 2 AC chargers (22kW)
+- Total: 18 spaces
+- Surface: Covered indoor
+- Height clearance: 2.1 meters
+- Nearest to: Elevator (central), stairwell A
+
+Level 2:
+- 10 standard regular spaces (L2-01 to L2-10)
+- 5 VIP premium spaces (L2-VIP1 to L2-VIP5) — wider bays, dedicated lighting, nearest to elevator
+- Total: 15 spaces
+- Surface: Covered indoor
+- Height clearance: 2.1 meters
+- Features: VIP lounge access, premium lighting, security cameras at every bay
+
+Basement:
+- 8 standard regular spaces (B-01 to B-08)
+- 2 EV charging spaces (B-EV1, B-EV2) — equipped with Type 2 AC chargers (22kW)
+- 2 handicapped-accessible spaces (B-H1, B-H2) — wide bays with ramp access
+- Total: 12 spaces
+- Surface: Underground, fully covered
+- Height clearance: 2.0 meters (note: slightly lower than other levels)
+- Nearest to: Elevator (central), Stairwell B, direct connection to Downtown Mall
+
+Space Type Summary:
+- Regular (standard): 43 spaces — compact and standard sizes available
+- Handicapped accessible: 4 spaces — wider bays, ramped access, blue badge required
+- EV Charging: 5 spaces — includes charging, no adapter needed for Type 2
+- VIP Premium: 5 spaces — widest bays, best location, executive experience
+
+Facilities on Each Level:
+- Fire extinguishers and emergency exits on all levels
+- CCTV cameras on all levels (100% coverage)
+- Emergency call buttons at every 20 meters
+- Lighting: LED, operational 24/7
+- Elevator: connects all 4 levels, accessible 24/7
